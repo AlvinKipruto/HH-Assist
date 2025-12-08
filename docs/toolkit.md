@@ -13,7 +13,7 @@ End Goal:
 
 To build a minimal working landing page for a House Hunting Web App, displaying multiple house locations and adjusting responsively to different screen sizes.
 
-2. Quick Summary of the Technology
+## 2. Quick Summary of the Technology
 Definition:
 
 React is a JavaScript library for building interactive user interfaces using a component-based design.
@@ -33,7 +33,7 @@ Real-World Example:
 
 Airbnb Web Interface uses React to power dynamic listings, search components, and interactive UI elements similar to house-hunting features.
 
-3. System Requirements
+## 3. System Requirements
 
 Operating System: Windows 10/11, macOS, or Linux
 
@@ -55,20 +55,20 @@ Vite
 
 @types/react (optional for TypeScript users)
 
-4. Installation & Setup Instructions
+## 4. Installation & Setup Instructions
 
 Follow these steps to set up the project:
 
-# 1. Create a new React + Vite project
+1. Create a new React + Vite project
 npm create vite@latest house-hunting-landing-page --template react
 
-# 2. Enter the project folder
+2. Enter the project folder
 cd house-hunting-landing-page
 
-# 3. Install dependencies
+3. Install dependencies
 npm install
 
-# 4. Start the development server
+4. Start the development server
 npm run dev
 
 
@@ -111,14 +111,7 @@ React automatically updates the UI when changes are made during development.
 Vite reloads the page instantly without refreshing the entire app.
 
 6. AI Prompt Journal
-Prompt Used:
-
-"Help me write a toolkit document for my React + Vite landing page following a structured format."
-
-Response Summary:
-
-The AI generated a structured document with sections like technology choice, justification, system requirements, code examples, and installation steps, matching the required format.
-
+- You can check the AI Prompt Journal at ai-prompt-journaal.md
 Evaluation / Reflection:
 
 The response was clear and complete.
@@ -127,7 +120,7 @@ I only needed minimal edits to match my exact project.
 
 The structured breakdown made documentation easier to maintain.
 
-7. Common Issues & Fixes
+## 7. Common Issues & Fixes
 Issue 1:
 
 Error: npm: command not found
@@ -154,7 +147,7 @@ import './App.css';
 
 and restart the dev server.
 
-8. References
+## 8. References
 
 React Documentation → https://react.dev
 
