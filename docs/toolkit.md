@@ -77,8 +77,11 @@ After running the final command, Vite will give you a local development URL, usu
 http://localhost:5173/
 
 5. Minimal Working Example (MWE)
+
 Code Block – Simple React Landing Page
+
 // src/App.jsx
+
 export default function App() {
   return (
     <div style={{ background: "#8B4513", minHeight: "100vh", padding: "40px", color: "white" }}>
