@@ -76,7 +76,7 @@ After running the final command, Vite will give you a local development URL, usu
 
 http://localhost:5173/
 
-5. Minimal Working Example (MWE)
+5. Minimal Working Example
 
 Code Block – Simple React Landing Page
 
